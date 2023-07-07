@@ -1,0 +1,23 @@
+h1{
+    background-color: brown;
+    text-align: center;
+}
+#he{
+    background-color: rgb(133, 116, 116);
+    width: 65px;
+    font-style: bold;
+}
+#he a{
+    text-decoration: none;
+    color: aliceblue;
+}
+#he a:hover{
+    color: rgb(196, 210, 0);
+}
+#chi{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+    color: rgb(175, 155, 155);
+}
